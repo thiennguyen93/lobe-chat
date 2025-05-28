@@ -68,6 +68,7 @@ ENV NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY="pk_test_bG92aW5nLXdhbGxhYnktMTIuY2xlcmsuY
     NEXT_PUBLIC_ENABLE_CLERK_AUTH="1" \
     NEXT_PUBLIC_ENABLE_NEXT_AUTH="0" \
     NEXT_PUBLIC_SERVICE_MODE="server"
+    APP_URL="https://chat.thien.uk"
 
 # Node
 ENV NODE_OPTIONS="--max-old-space-size=8192"
