@@ -2,6 +2,281 @@
 
 # Changelog
 
+### [Version 1.136.9](https://github.com/lobehub/lobe-chat/compare/v1.136.8...v1.136.9)
+
+<sup>Released on **2025-10-11**</sup>
+
+#### 💄 Styles
+
+- **misc**: Add lab to support disable/enable rich text.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Add lab to support disable/enable rich text, closes [#9652](https://github.com/lobehub/lobe-chat/issues/9652) ([658c294](https://github.com/lobehub/lobe-chat/commit/658c294))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.136.8](https://github.com/lobehub/lobe-chat/compare/v1.136.7...v1.136.8)
+
+<sup>Released on **2025-10-11**</sup>
+
+#### 🐛 Bug Fixes
+
+- **provider**: Add deepseek-v3.1-terminus to THINKING_MODELS.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **provider**: Add deepseek-v3.1-terminus to THINKING_MODELS, closes [#9653](https://github.com/lobehub/lobe-chat/issues/9653) [#9648](https://github.com/lobehub/lobe-chat/issues/9648) ([e9b5c69](https://github.com/lobehub/lobe-chat/commit/e9b5c69))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.136.7](https://github.com/lobehub/lobe-chat/compare/v1.136.6...v1.136.7)
+
+<sup>Released on **2025-10-11**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Disable rich text in markdown editor.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Disable rich text in markdown editor, closes [#9637](https://github.com/lobehub/lobe-chat/issues/9637) ([9349ce2](https://github.com/lobehub/lobe-chat/commit/9349ce2))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.136.6](https://github.com/lobehub/lobe-chat/compare/v1.136.5...v1.136.6)
+
+<sup>Released on **2025-10-11**</sup>
+
+#### 🐛 Bug Fixes
+
+- **bedrock**: Add parameter conflict handling for Claude 4+ models.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **bedrock**: Add parameter conflict handling for Claude 4+ models, closes [#9627](https://github.com/lobehub/lobe-chat/issues/9627) [#9523](https://github.com/lobehub/lobe-chat/issues/9523) ([54b6217](https://github.com/lobehub/lobe-chat/commit/54b6217))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.136.5](https://github.com/lobehub/lobe-chat/compare/v1.136.4...v1.136.5)
+
+<sup>Released on **2025-10-11**</sup>
+
+#### 🐛 Bug Fixes
+
+- **plugin-store**: Fix search functionality for old plugin store.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **plugin-store**: Fix search functionality for old plugin store, closes [#9651](https://github.com/lobehub/lobe-chat/issues/9651) [#9645](https://github.com/lobehub/lobe-chat/issues/9645) ([522fc09](https://github.com/lobehub/lobe-chat/commit/522fc09))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.136.4](https://github.com/lobehub/lobe-chat/compare/v1.136.3...v1.136.4)
+
+<sup>Released on **2025-10-10**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Add 'gemini-2.5-flash-image' to disabled models Thinking.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Add 'gemini-2.5-flash-image' to disabled models Thinking, closes [#9633](https://github.com/lobehub/lobe-chat/issues/9633) ([771b585](https://github.com/lobehub/lobe-chat/commit/771b585))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.136.3](https://github.com/lobehub/lobe-chat/compare/v1.136.2...v1.136.3)
+
+<sup>Released on **2025-10-10**</sup>
+
+#### 💄 Styles
+
+- **misc**: Add delete & regenerate hotkeys.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Add delete & regenerate hotkeys, closes [#9538](https://github.com/lobehub/lobe-chat/issues/9538) ([d948580](https://github.com/lobehub/lobe-chat/commit/d948580))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.136.2](https://github.com/lobehub/lobe-chat/compare/v1.136.1...v1.136.2)
+
+<sup>Released on **2025-10-10**</sup>
+
+#### 💄 Styles
+
+- **misc**: Update i18n.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Update i18n, closes [#9625](https://github.com/lobehub/lobe-chat/issues/9625) ([70d356d](https://github.com/lobehub/lobe-chat/commit/70d356d))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.136.1](https://github.com/lobehub/lobe-chat/compare/v1.136.0...v1.136.1)
+
+<sup>Released on **2025-10-09**</sup>
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.136.0](https://github.com/lobehub/lobe-chat/compare/v1.135.6...v1.136.0)
+
+<sup>Released on **2025-10-09**</sup>
+
+#### ✨ Features
+
+- **misc**: Add new provider Cerebras.
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix standalone plugin rerender issue.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Add new provider Cerebras, closes [#9559](https://github.com/lobehub/lobe-chat/issues/9559) ([9cceaad](https://github.com/lobehub/lobe-chat/commit/9cceaad))
+
+#### What's fixed
+
+- **misc**: Fix standalone plugin rerender issue, closes [#9611](https://github.com/lobehub/lobe-chat/issues/9611) [#9396](https://github.com/lobehub/lobe-chat/issues/9396) ([7ab30fc](https://github.com/lobehub/lobe-chat/commit/7ab30fc))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.135.6](https://github.com/lobehub/lobe-chat/compare/v1.135.5...v1.135.6)
+
+<sup>Released on **2025-10-08**</sup>
+
+#### 🐛 Bug Fixes
+
+- **desktop**: Macos26 small icon.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **desktop**: Macos26 small icon, closes [#9421](https://github.com/lobehub/lobe-chat/issues/9421) ([ca03342](https://github.com/lobehub/lobe-chat/commit/ca03342))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.135.5](https://github.com/lobehub/lobe-chat/compare/v1.135.4...v1.135.5)
 
 <sup>Released on **2025-10-08**</sup>
