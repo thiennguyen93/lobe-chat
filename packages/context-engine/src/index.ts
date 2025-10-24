@@ -32,10 +32,11 @@ export {
 export type {
   FunctionCallChecker,
   GenerateToolsParams,
+  LobeToolManifest,
   PluginEnableChecker,
   ToolNameGenerator,
   ToolsEngineOptions,
   ToolsGenerationContext,
   ToolsGenerationResult,
 } from './tools';
-export { filterValidManifests, ToolsEngine, validateManifest } from './tools';
+export { filterValidManifests, ToolNameResolver, ToolsEngine, validateManifest } from './tools';
